@@ -1,4 +1,4 @@
-# fuse-android-app
+# Fuse App
 This app is for Calvary Church's FUSE youth.
 
 # To be inculded:
